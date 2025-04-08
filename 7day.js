@@ -1,8 +1,8 @@
 loopy() 
  function loopy() { 
  var sWord ="@LostXofs" 
- while (sWord != "Escopar") {// Pass
- sWord = prompt("Enter The Uesr ")  
+ while (sWord != "71717hshdhowsjjdissjjdwoqosjxbdnwsjxjeosixndn") {// Pass
+ sWord = prompt("You Uesr End Expires : 2025/04/08  ")  
  } 
  
 //confirm("ok");
